@@ -1,15 +1,15 @@
 {
-    "timestamp": "2026-10-14T10:40:01Z",
+    "timestamp": "2026-10-15T10:40:03Z",
     "git": {
         "commit": "a6f9d25c289323ee08402d9aa1844d4615daa769",
         "branch": "origin/develop",
         "url": "git@github.com:vacp2p/research.logos.co.git"
     },
     "build": {
-        "id": "3979",
-        "number": "3979",
+        "id": "3980",
+        "number": "3980",
         "name": "website/dev-research.logos.co",
         "slave": "linux-02",
-        "url": "https://ci.infra.status.im/job/website/job/dev-research.logos.co/3979/"
+        "url": "https://ci.infra.status.im/job/website/job/dev-research.logos.co/3980/"
     }
 }
